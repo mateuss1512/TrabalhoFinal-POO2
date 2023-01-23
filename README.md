@@ -1,4 +1,4 @@
-📂 Repositório do Projeto (Aplicação desktop com JavaFX e banco de dados MySQL com JDBC)
+📂 Repositório do Projeto (Aplicação desktop com JavaFX para criação de uma agenda de contatos)
 
 📌 Sobre
 
