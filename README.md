@@ -5,6 +5,7 @@
 Nesse repositório está o projeto feito para o trabalho final, utilizando uma aplicação JavaFx que simula uma agenda de contatos com informações relevantes.
 
 Cadastro/Edição/Exclusão de contatos
+
 Lead para cliente
 
 🛠️ Screenshots
